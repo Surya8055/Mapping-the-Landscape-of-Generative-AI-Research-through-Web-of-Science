@@ -125,7 +125,7 @@ We leverage advanced <strong>data science, machine learning, natural language pr
 <p>Clone the repository and install dependencies:</p>
 <pre><code>git clone https://github.com/Surya8055/generative-ai-research-mapping.git
 cd generative-ai-research-mapping
-pip install -r requirements.txt</code></pre>
+</code></pre>
 <p>Run the Jupyter Notebook:</p>
 <pre><code>jupyter notebook notebooks/Mapping-the-Landscape-of-Generative-AI-Research-through-Web-of-Science.ipynb</code></pre>
 
@@ -135,4 +135,5 @@ pip install -r requirements.txt</code></pre>
 📍 Boston, MA, USA | 🏫 MS in Data Analytics Engineering @ Northeastern University</p>
 
 <h2>📜 License</h2>
-<p>This project is licensed under the MIT License.</p>
+<p>This project, authored by <strong>Surya Vinay Kumar</strong>, emphasizes originality and academic integrity. 
+Any form of plagiarism is strictly prohibited. Proper credits and citations must be included whenever referencing or utilizing this project to uphold ethical standards and acknowledge the author's contributions.</p>
